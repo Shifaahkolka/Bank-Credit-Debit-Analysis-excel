@@ -1,5 +1,4 @@
-# Bank-Credit-Debit-Analysis-excel
-[5:49 PM, 11/21/2025] Shifahkolka💫: Bank Credit and Debit Analysis – Excel Dashboard
+Bank Credit and Debit Analysis – Excel Dashboard
 
 This repository contains an Excel-based dashboard that analyzes credit and debit transactions across multiple banks and branches. The dashboard visualizes important financial metrics and trends using Excel charts, formulas, and slicers.
 
@@ -23,38 +22,23 @@ A bar chart showing transaction amounts across:
 Monthly Wise Transaction
 Line chart showing monthly transaction trends from Jan–Dec.
 
-Total Transac…
-[5:56 PM, 11/21/2025] Shifahkolka💫: This project showcases an interactive Bank Loan Dashboard designed using Tableau.
-The dashboard visually analyzes loan distribution, borrower categories, maturity trends, and profitability.
-It helps banks or financial analysts understand loan performance across different states, religions, grades, and product categories.
-[5:57 PM, 11/21/2025] Shifahkolka💫: Key Features of the Dashboard
+Total Transaction Amount by Bank
+Pie chart with distribution across:
+- HDFC Bank  
+- ICICI Bank  
+- Punjab National Bank  
+- Kotak Mahindra Bank  
+- State Bank of India  
+- Axis Bank  
 
-1️⃣ State-wise Loan Distribution
-	•	Shows loan amount across Indian states
-	•	Helps identify regions with highest lending volume
+ Credit & Debit Trends Over Time
+Shows seasonal and monthly fluctuations.
+Bank-Wise Credit and Debit Comparison
+Clustered bar chart comparing credit vs debit for each bank.
 
-2️⃣ Religion-wise Loan Segmentation
-	•	Visual comparison of loan distribution among Hindu, Muslim, Christian borrowers
-
-3️⃣ Grade-wise Loan Breakdown
-	•	Categorizes loan quality into grades (A, B, C, D…)
-
-4️⃣ Product Group-wise Loan
-	•	Displays loan amounts by product type (Home Loan, Business Loan, Trade, Agriculture…)
-
-5️⃣ Top 5 Borrowers
-	•	Highlights borrowers with the highest loan amounts
-
-6️⃣ Loan Maturity Analysis
-	•	Shows monthly loan maturity count
-	•	Helps understand repayment cycles
-
-7️⃣ KPIs
-	•	Funded Amount
-	•	Loan Amount
-	•	Total Received Interest
-	•	Total Profit
-	•	Total Payment
-
-🛠️ Tools & Technologies
-	•	Tableau – Data visualization & dashboard creation
+Slicers Used
+- Branch  
+- Bank Name  
+- Quarter  
+- Year  
+- Transaction Type (Credit / Debit)
